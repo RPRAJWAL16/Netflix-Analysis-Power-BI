@@ -1,4 +1,7 @@
 # Netflix-Analysis-Power-BI
+Dashboard
+![Snapshot of Dashboard](https://github.com/RPRAJWAL16/Netflix-Analysis-Power-BI/assets/168065453/3794e844-5283-4195-b175-0de3c9f9c673)
+
 Objective: Conducted an in-depth analysis of Netflix’s content library to evaluate show and movie performance based on IMDb ratings.
 Data Collection: Integrated IMDb ratings data for Netflix shows and movies into Power BI for comprehensive analysis.
 Average Rating Dashboard: Developed an interactive dashboard to display the average IMDb ratings of all Netflix content, providing insights into overall content quality.
